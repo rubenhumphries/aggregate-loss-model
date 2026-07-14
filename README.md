@@ -176,4 +176,4 @@ Potential extensions include:
 - Gross versus net reinsurance comparison
 - Catastrophe loss modelling
 - Capital modelling under Solvency II
-- Parameter estimation using maximum likelihood science, stochastic modelling and quantitative risk analysis.
+- Parameter estimation using maximum likelihood
