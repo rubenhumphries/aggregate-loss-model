@@ -62,7 +62,8 @@ actuarial-risk-model/
 ├── aggregate_loss_model.py
 ├── README.md
 ├── requirements.txt
-│
+├── .gitignore
+├── LICENSE
 └── results/
     ├── plots/
     │   ├── claim_severity.png
