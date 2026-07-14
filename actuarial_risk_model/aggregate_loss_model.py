@@ -226,6 +226,7 @@ def main():
 
     years = 100000
 
+    # Parameters chosen to produce realistic medium-sized insurance claims
     log_mean = 7
     log_sigma = 1
 
