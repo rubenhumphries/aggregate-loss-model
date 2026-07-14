@@ -52,6 +52,26 @@ Sensitivity analysis is performed for different claim frequencies:
 - λ = 15
 - λ = 20
 
+--- 
+
+## Sample Outputs
+
+### Aggregate Loss Distribution
+
+![Aggregate Loss Distribution](results/plots/loss_distribution.png)
+
+### Claim Severity Distribution
+
+![Claim Severity Distribution](results/plots/claim_severity.png)
+
+### Mean Annual Loss vs Claim Frequency
+
+![Mean Loss](results/plots/mean_loss_sensitivity.png)
+
+### VaR 99% vs Claim Frequency
+
+![VaR 99](results/plots/var99_sensitivity.png)
+
 ---
 
 ## Project Structure
